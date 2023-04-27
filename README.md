@@ -17,7 +17,8 @@
 ## General info
 This project is a simple registration and login application that uploads and queries data from firebase database.
 <br></br>
-Firebase is a set of backend cloud computing services and application development platforms provided by Google. It hosts databases, services, authentication, and integration for a variety of applications, including Android, iOS, JavaScript, Node.js, Java, Unity, PHP, and C++.   -source [Wikipedia Firebase](https://en.wikipedia.org/wiki/Firebase)
+Firebase is a set of backend cloud computing services and application development platforms provided by Google. It hosts databases, services, authentication, and integration for a variety of applications, including Android, iOS, JavaScript, Node.js, Java, Unity, PHP, and C++.
+- Source [Wikipedia Firebase](https://en.wikipedia.org/wiki/Firebase)
 
 
 <br></br>
