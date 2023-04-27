@@ -13,6 +13,8 @@ public class FirebaseConfig {
 
         FileInputStream serviceAccount = null;
         try {
+            //your .json filename that generated in your firebase account: https://firebase.google.com
+            //there is a .readme file to how to do it
             serviceAccount = new FileInputStream("credentials.json");
 
             FirebaseOptions options = new FirebaseOptions.Builder()
